@@ -64,3 +64,18 @@ body {
 	flex-direction: column;
 	justify-content: center;
 }
+.option2 {
+	display: none;
+	position: absolute;
+	border: 1px solid #ccc;
+	background: white;
+	width: 100%;
+}
+option {
+	padding: 10px;
+  	cursor: pointer;
+}
+
+option div:hover {
+  background: #eee;
+}
